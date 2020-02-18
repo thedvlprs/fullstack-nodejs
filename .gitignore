@@ -108,3 +108,5 @@ dist
 
 # App misc
 .DS_Store
+01-first-node-api/node_modules
+01-first-node-api/package-lock.json
